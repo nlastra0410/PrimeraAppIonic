@@ -1,4 +1,7 @@
-# **Sistema de mensajería instantánea**
+# **Para iniciar quiero senalar que me enfrente a un reto muy grande, incluso no se si esta aplicacion pueda ser levantada desde otra maquina
+# ya que es primera vez que me enfrento a este tipo de desarrollos que son bastante complejos para mi conocimiento
+# admito que mucho de lo que esta aqui esta copiado y reutilizado desde otros usuarios que darn aportes en el mundo github
+# pero bueno lo mas importante es poder sacar las cosas aunque sea de esta manera enfrentando toodo tipo de dificultades. 
 
 > Crear aplicación móvil para aprender sobre alimentacion usando Ionic 2 y Firebase.
 
